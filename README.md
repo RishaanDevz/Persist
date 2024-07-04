@@ -43,11 +43,6 @@ python3 persist.py
 
 - Click on the text of a task to mark it as done. It’s that simple!
 
-## Screenshots
-
-![Screenshot 1](https://ibb.co/rFzG1tK)
-![Screenshot 2](https://ibb.co/WBkF81R)
-
 ## Contributing
 
 We welcome contributions! Feel free to fork the repository, make your changes, and submit a pull request.
