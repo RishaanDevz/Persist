@@ -1,5 +1,8 @@
 # Persist
 
+![image](https://github.com/RishaanDevz/Persist/assets/113069412/f57281b7-375f-4514-8618-616b42c82466)
+
+
 Welcome to **Persist** - the ultimate task manager that refuses to be ignored! 😅
 
 Persist stays on top of all your windows, ensuring that your tasks are always in view, nudging (or annoying) you to get things done.
